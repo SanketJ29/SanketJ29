@@ -1,7 +1,6 @@
-![Header](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif "Header")
-
-
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="450"/>
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sanketjaiswal29/">
@@ -47,12 +46,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SanketJ29&theme=dark&background=000000)](https://git.io/streak-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SanketJ29&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SanketJ29&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanketJ29&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanketJ29&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SanketJ29&theme=radical&no-frame=true&no-bg=false&margin-w=4)
