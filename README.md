@@ -59,5 +59,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SanketJ29&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
