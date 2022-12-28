@@ -76,6 +76,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br>
   
  
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=SanketJ29&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<br>
+  
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+  
+### 🔖 Holopins:
+  
+[![An image of @sanket29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanket29)](https://holopin.io/@sanket29)
 
+<br>  
