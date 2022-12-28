@@ -1,18 +1,21 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="550"/>
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="580"/>
 </div>
 <br><br>
 
+<div id= "links" align = "center">
+<a href="https://www.linkedin.com/in/sanketjaiswal29/"><img height="35" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://sanketjaiswal.netlify.app/Sanket's%20Resume.pdf"><img height="35"
+                                                                       src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
+<a href="mailto:sanketjaiswal2912@gmail.com"><img height="35" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/sanketjaiswal29/"><img height="35" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
+</div>
+<br>
+
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/sanketjaiswal29/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://sanketjaiswal.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-White?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
   </a> 
-  <a href="https://www.instagram.com/sanketjaiswal29/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
   <a href="https://leetcode.com/Sanket2912/">
     <img src="https://img.shields.io/badge/LeetCode-grey?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge"/>
   </a>
@@ -30,10 +33,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 💻: I am passionate about Web Development and DSA.
 
-- :zap: In my free time I watch Anime and read Manga. I am also a big fan of STARWARS.
+- :zap: In my free time I watch Anime and read Manga. I am also a big fan of STARWARS. <br><br><img src = "https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif" width="150"/>
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanketjaiswal29/)
-  
+
 
 
 <p  align="center">
