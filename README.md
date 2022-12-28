@@ -33,9 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 💻: I am passionate about Web Development and DSA.
 
-- :zap: In my free time I watch Anime and read Manga. I am also a big fan of STARWARS. <br><br><img src = "https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif" width="150"/>
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanketjaiswal29/)
+- :zap: In my free time I watch Anime and read Manga. I am also a big fan of STARWARS. <br><br><img src = "https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif" width="200"/>
 
 
 
