@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="550"/>
 </div>
+<br><br>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sanketjaiswal29/">
@@ -41,7 +42,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 ## 🖱️ Tech:
-
+<br>
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
