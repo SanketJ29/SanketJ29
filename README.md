@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/sanketjaiswal29/"><img height="35" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://sanketjaiswal.netlify.app/Sanket's%20Resume.pdf"><img height="35"
                                                                        src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
-<a href="mailto:sanketjaiswal2912@gmail.com"><img height="35" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sanketjaiswal2912@gmail.com"><img height="35" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/sanketjaiswal29/"><img height="35" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
 </div>
 <br>
