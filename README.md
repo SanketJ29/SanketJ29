@@ -5,7 +5,7 @@
 
 <div id= "links" align = "center">
 <a href="https://www.linkedin.com/in/sanketjaiswal29/"><img height="35" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://sanketjaiswal.netlify.app/Sanket's%20Resume.pdf"><img height="35"
+<a href="https://drive.google.com/file/d/1nuSKd4NbizzdLLutIWFpJldZ1IIgARAv/view?usp=sharing"><img height="35"
                                                                        src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sanketjaiswal2912@gmail.com"><img height="35" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/sanketjaiswal29/"><img height="35" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
@@ -33,7 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 💻: I am passionate about Web Development and DSA.
 
-- :zap: In my free time I watch Anime and read Manga. I am also a big fan of STARWARS. <br><br><img src = "https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif" width="200"/>
+- :zap: In my free time I watch Anime and read Manga. I am also a big fan of STAR WARS. <br><br><img src = "https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif" width="200"/>
 
 
 
