@@ -66,9 +66,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  
 
 ## 📊 Statistics:
-![](https://github-readme-stats.vercel.app/api?username=SanketJ29&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SanketJ29&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SanketJ29&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanketJ29&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SanketJ29&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   
 <p  align="center">
