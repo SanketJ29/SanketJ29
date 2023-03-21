@@ -5,7 +5,7 @@
 
 <div id= "links" align = "center">
 <a href="https://www.linkedin.com/in/sanketjaiswal29/"><img height="35" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1nuSKd4NbizzdLLutIWFpJldZ1IIgARAv/view?usp=sharing"><img height="35"
+<a href="https://drive.google.com/file/d/1xL-i5xZa61UXAHtwYrtKtCQpxBCf-KBW/view"><img height="35"
                                                                        src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sanketjaiswal2912@gmail.com"><img height="35" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/sanketjaiswal29/"><img height="35" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
