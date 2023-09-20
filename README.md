@@ -63,8 +63,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
- 
+## LeetCode: 
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Sanket2912?theme=dark&ext=activity)
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+  
 ## 📊 Statistics:
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SanketJ29&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SanketJ29&theme=blue-green&hide_border=false)<br/>
